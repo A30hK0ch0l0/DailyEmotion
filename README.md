@@ -1,0 +1,2 @@
+# DailyEmotion
+DescribeEmotionOfEveryGivenSingleDay
